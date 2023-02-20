@@ -1,0 +1,585 @@
+.dropbtn { 
+
+    background-color: #06038D; 
+
+    color: white;
+    position: absolute;
+    right: 2px;
+    top: 100px;
+
+    padding: 20px; 
+
+    font-size: 16px; 
+
+    border: none; 
+
+    cursor: pointer; 
+
+} 
+
+  
+
+.dropbtn:hover, .dropbtn:focus { 
+
+    background-color: black; 
+
+} 
+
+
+
+
+  
+
+
+  
+
+.dropdown-content { 
+
+    display: none; 
+
+    position: absolute;
+    right: 0px;
+    top: 159px;
+
+    background-color: #f9f9f9; 
+
+    min-width: 200px; 
+
+    overflow: auto; 
+
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2); 
+
+    z-index: 100; 
+
+} 
+
+  
+
+.dropdown-content a { 
+
+    color: black; 
+
+    padding: 10px 40px; 
+
+    text-decoration: none; 
+
+    right: 0PX;
+
+    display: block; 
+
+} 
+
+  
+
+.dropdown a:hover {background-color: grey;} 
+
+  
+
+.show {display:block;} 
+
+body{
+    font-size: 16px;
+}
+section{
+    width: 1500px;
+    max-width: 90%;
+    margin: 0px auto;
+}
+#container{
+    width: 1400px;
+}
+.box{
+    border: 3px solid black; 
+    background-color: lightyellow;
+    max-width: 50px;
+    max-height: 50px; 
+    padding: 10px;
+    line-height: 50px; 
+    text-align: center; 
+    font-size: 1.63em;
+}
+
+.wetium{
+    border: 3px solid black; 
+    background-color: lightblue;
+    max-width: 50px;
+    max-height: 50px; 
+    padding: 10px;
+    line-height: 50px; 
+    text-align: center; 
+    font-size: 1.63em;
+}
+
+#panelOne{
+    float: left; 
+}
+
+#panelTwo{
+    float: left; 
+    position: relative; 
+    top: 75px; 
+}
+
+.panelThree{
+    float: left; 
+    position: relative; 
+    top: 225px; 
+}
+
+.panelFour{
+    float: left; 
+    position: relative; 
+    top: 75px; 
+}
+
+#panelFive{
+    float: left; 
+}
+
+#lowerContainer{
+    float: left; 
+    margin-top: 20px;
+}
+
+.bottom{
+    float: left; 
+}
+
+
+
+                         
+
+h1.home
+
+    { 
+
+        color: darkblue; 
+
+        font-size: 48px; 
+
+        text-align: center; 
+
+        background-color: white; 
+
+        font-family: sans-serif, Helvetica;
+
+    } 
+
+h2.home 
+
+    { 
+
+        color: darkblue; 
+
+        fontsize: 24px; 
+
+        tekst-align: center; 
+
+    } 
+
+h3.home  
+   
+
+   {
+
+     color: darkblues;
+     font-size: 24px;
+     text-align: center;
+
+   }
+
+ 
+   p.home
+    {
+        color: black;
+        font-size: 20px;
+        font-family: sans-serif, Helvetica;
+    } 
+
+.vert > em {
+    color:green;
+}
+background-color: #add8e6;
+
+{
+
+
+
+}
+h1.A.I.
+
+    { 
+
+        color: darkblue; 
+
+        font-size: 48px; 
+
+        text-align: center; 
+
+        background-color: white; 
+
+        font-family: sans-serif, Helvetica;
+
+    } 
+
+h2.A.I.
+
+    { 
+
+        color: darkblue; 
+
+        fontsize: 24px; 
+
+        tekst-align: center; 
+
+    } 
+
+h3.A.I.  
+   
+
+   {
+
+     color: darkblues;
+     font-size: 24px;
+     text-align: center;
+
+   }
+
+ 
+   p.A.I.
+    {
+        color: black;
+        font-size: 20px;
+        font-family: sans-serif, Helvetica;
+    } 
+
+
+
+    h1.Hole
+
+    { 
+
+        color: darkblue; 
+
+        font-size: 48px; 
+
+        text-align: center; 
+
+        background-color: white; 
+
+        font-family: sans-serif, Helvetica;
+
+    } 
+
+h2.Hole
+
+    { 
+
+        color: darkblue; 
+
+        fontsize: 24px; 
+
+        tekst-align: center; 
+
+    } 
+
+h3.Hole
+   
+
+   {
+
+     color: darkblues;
+     font-size: 24px;
+     text-align: center;
+
+   }
+
+ 
+   p.Hole
+    {
+        color: black;
+        font-size: 20px;
+        font-family: sans-serif, Helvetica;
+    } 
+
+    h1.CERN
+
+    { 
+
+        color: darkblue; 
+
+        font-size: 48px; 
+
+        text-align: center; 
+
+        background-color: white; 
+
+        font-family: sans-serif, Helvetica;
+
+    } 
+
+h2.CERN
+
+    { 
+
+        color: darkblue; 
+
+        fontsize: 24px; 
+
+        tekst-align: center; 
+
+    } 
+
+h3.CERN 
+   
+
+   {
+
+     color: darkblues;
+     font-size: 24px;
+     text-align: center;
+
+   }
+
+ 
+   p.CERN
+    {
+        color: black;
+        font-size: 20px;
+        font-family: sans-serif, Helvetica;
+    } 
+
+    h1.Einstein
+
+    { 
+
+        color: darkblue; 
+
+        font-size: 48px; 
+
+        text-align: center; 
+
+        background-color: white; 
+
+        font-family: sans-serif, Helvetica;
+
+    } 
+
+h2.Einstein
+
+    { 
+
+        color: darkblue; 
+
+        fontsize: 24px; 
+
+        tekst-align: center; 
+
+    } 
+
+h3.Einstein
+   
+   {
+
+     color: darkblues;
+     font-size: 24px;
+     text-align: center;
+
+   }
+
+ 
+p.Einstein
+    {
+        color: black;
+        font-size: 20px;
+        font-family: sans-serif, Helvetica;
+    } 
+
+h1.Aliens
+
+    { 
+
+        color: darkblue; 
+
+        font-size: 48px; 
+
+        text-align: center; 
+
+        background-color: white; 
+
+        font-family: sans-serif, Helvetica;
+
+    } 
+
+h2.Aliens
+
+    { 
+
+        color: darkblue; 
+
+        fontsize: 24px; 
+
+        tekst-align: center; 
+
+    } 
+
+h3.Aliens 
+   
+
+   {
+
+     color: darkblues;
+     font-size: 24px;
+     text-align: center;
+
+   }
+
+ 
+p.Aliens
+    {
+        color: black;
+        font-size: 20px;
+        font-family: sans-serif, Helvetica;
+    } 
+
+h1.Gravity
+
+    { 
+
+        color: darkblue; 
+
+        font-size: 48px; 
+
+        text-align: center; 
+
+        background-color: white; 
+
+        font-family: sans-serif, Helvetica;
+
+    } 
+
+h2.Gravity
+
+    { 
+
+        color: darkblue; 
+
+        fontsize: 24px; 
+
+        tekst-align: center; 
+
+    } 
+
+h3.Gravity
+   
+
+   {
+
+     color: darkblues;
+     font-size: 24px;
+     text-align: center;
+
+   }
+
+ 
+p.Gravity
+    {
+        color: black;
+        font-size: 20px;
+        font-family: sans-serif, Helvetica;
+    } 
+
+h1.Atoms
+
+    { 
+
+        color: darkblue; 
+
+        font-size: 48px; 
+
+        text-align: center; 
+
+        background-color: white; 
+
+        font-family: sans-serif, Helvetica;
+
+    } 
+
+h2.Atoms
+
+    { 
+
+        color: darkblue; 
+
+        fontsize: 24px; 
+
+        tekst-align: center; 
+
+    } 
+
+h3.Atoms
+   
+
+   {
+
+     color: darkblues;
+     font-size: 24px;
+     text-align: center;
+
+   }
+
+ 
+p.Atoms
+    {
+        color: black;
+        font-size: 20px;
+        font-family: sans-serif, Helvetica;
+    } 
+
+h1.Light
+
+    { 
+
+        color: darkblue; 
+
+        font-size: 48px; 
+
+        text-align: center; 
+
+        background-color: white; 
+
+        font-family: sans-serif, Helvetica;
+
+    } 
+
+h2.Light
+
+    { 
+
+        color: darkblue; 
+
+        fontsize: 24px; 
+
+        tekst-align: center; 
+
+    } 
+
+h3.Light
+   
+
+   {
+
+     color: darkblues;
+     font-size: 24px;
+     text-align: center;
+
+   }
+
+ 
+p.Light
+    {
+        color: black;
+        font-size: 20px;
+        font-family: sans-serif, Helvetica;
+    } 
+
